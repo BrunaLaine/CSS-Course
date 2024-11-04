@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta chorset="UTF-8">
+  <title>Motivational Poster Project</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      background-color: black;
+    }
+
+    div {
+      width: 50%;
+      margin-left: 25%;
+      margin-top: 100px;
+      color: whitesmoke;
+      text-align: center;
+      font-family: "Regular Libre Baskerville", serif;
+    }
+
+    img {
+      width: 100%;
+      border: white solid 2px;
+      border-radius: 5px;
+    }
+
+    h1 {
+      text-transform: uppercase;
+      font-size: 2rem;
+    }
+
+    #author {
+      font-size: small;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  
+<div>
+<img src="https://en.unav.edu/documents/3511980/31617013/san+Josemar%C3%ADa.jpg/e1c4237b-8f54-2c70-4bf2-c2ec1c6c6cec" alt="St Josemaria Escrivá"/>
+<h1>Ordinary</h1>
+<p>It is in the simplicity of your ordinary work, in the monotonous details of each day, that you have to find the secret, which is hidden from so many, of something great and new: Love.</p>
+<p id="author">St. Josemaria Escrivá</p>
+</div>
+
+</body>
+</html>
