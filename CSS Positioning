@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CSS Positioning Exercise</title>
+  <style>
+    .whitesmoke-circle {
+      background-color: whitesmoke;
+      height: 200px;
+      width: 200px;
+      border-radius: 100%;
+      position: relative;
+      top: 150px;
+      left: 150px;
+      z-index: 1;
+    }
+
+    .black-box {
+      background-color: black;
+      height: 300px;
+      width: 500px;
+      position: relative;
+      top: 200px;
+      left: 200px;
+    }
+
+    .grey-box {
+      background-color: grey;
+      height: 300px;
+      width: 500px;
+      position: absolute;
+      top: 150px;
+      left: 150px;
+    }
+
+    .darkslategrey-circle {
+      background-color: darkslategrey;
+      height: 200px;
+      width: 200px;
+      border-radius: 100%;
+      position: fixed;
+      top: 50px;
+      left: 50px;
+      z-index: -3;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="black-box">
+    <div class="whitesmoke-circle">
+    </div>
+    <div class="grey-box">
+    </div>
+    <div class="darkslategrey-circle">
+    </div>
+  </div>
+
+</body>
+
+</html>
