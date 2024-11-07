@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Spanish Vocabulary</title>
+    <title>Portuguese Vocabulary</title>
     <style>
       #red {
     color: red;
@@ -38,20 +38,20 @@ img {
   
   <body>
     <h1>Colors</h1>
-    <h2>Learn the colors in Spanish!</h2>
-    <h2 class="color-title" id="red">Rojo</h2>
+    <h2>Learn the colors in Portuguese!</h2>
+    <h2 class="color-title" id="red">Vermelho</h2>
     <img src="https://htmlcolorcodes.com/assets/images/colors/red-color-solid-background-1920x1080.png" alt="red" />
 
     <h2 class="color-title" id="blue">Azul</h2>
     <img src="https://krono-shop.com/media/image/f8/bf/af/0125-BS_1280x1280.jpg" alt="blue" />
 
-    <h2 class="color-title" id="orange">Anaranjado</h2>
+    <h2 class="color-title" id="orange">Laranja</h2>
     <img src="https://whitescreen.app/images/orange-screen-image.jpg" alt="orange" />
 
     <h2 class="color-title" id="green">Verde</h2>
     <img src="https://cdn11.bigcommerce.com/s-3po1k2/images/stencil/1280x1280/products/8187/14581/pablo_darkgreen__48022.1418749721.jpg?c=2&imbypass=on" alt="green" />
 
-    <h2 class="color-title" id="yellow">Amarillo</h2>
+    <h2 class="color-title" id="yellow">Amarelo</h2>
     <img src="https://aboffs.com/cdn/shop/products/2022-30-brightyellow_2000x.png?v=1587085556" alt="yellow" />
   </body>
 </html>
